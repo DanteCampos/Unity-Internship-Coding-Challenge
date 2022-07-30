@@ -99,7 +99,7 @@ Solutions to Unity internship coding challenge phase.
 
     >(a) Given a 2D vector A in the x-y plane of length |A| and angle theta to the x-axis, give the equations for the x and y components of A. (4 points)
     
-    $(x,y)=(|A|*\cos(\theta),|A|*\sin(\theta))$.
+    $(x,y) = (|A| * \cos( \theta ), |A| * \sin ( \theta ))$.
 
     >(b) Given the x,y,z components of a 3D vector A, give the equation for the angle between the vector and the x-y plane. (5 points)
     
@@ -113,5 +113,5 @@ Solutions to Unity internship coding challenge phase.
 
     > (b) Given a 3D point starting at position P1 and moving with initial velocity vector V and constant acceleration vector A, write an equation for the position P2 of the point after elapsed time t. (5 points)
     
-    $P_2 = P_1 + V*t + \frac{1}{2}*A*t^2$.
+    $P_2 = P_1 + V*t + \frac{1}{2} * A * t^2$.
 *****
