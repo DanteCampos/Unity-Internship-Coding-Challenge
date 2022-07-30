@@ -105,5 +105,5 @@ Solutions to Unity internship coding challenge phase.
     > $P_2 = P_1 + V*t$.
 
     (b) Given a 3D point starting at position P1 and moving with initial velocity vector V and constant acceleration vector A, write an equation for the position P2 of the point after elapsed time t. (5 points)
-    > $P_2 = P_1 + V*t + \frac{1}{2}*A*t^2$.
+    > $P_2 = P_1 + V*t + \frac{1}{2}*A*t^2$ .
 *****
